@@ -30,11 +30,12 @@ status-website:
   theme: light
   logoUrl: https://storage.googleapis.com/orionex-storage/orionex.webp
   favicon: https://storage.googleapis.com/orionex-storage/orionex.webp
-  name: Orionex Status Page
-  introTitle: "**Orionex Solutions Status Page** is the uptime monitor and status page to manage the uptime of our services."
+  name: Status Page
+  # introTitle: "**Orionex Solutions Status Page** is the uptime monitor and status page to manage the uptime of our services."
   introMessage: This is a status page which uses **real-time** data from our services.
   navbar:
-    - title: Status Page | Orionex Solutions
+    - title: Status Page
       href: /
     - title: Homepage
       href: https://orionex.id
+  customFootHtml: <p>&copy 2026 <a href=https://orionex.id>Orionex Solutions | PT Orionex Solusi Digital</a>. All rights reserved.</p>
