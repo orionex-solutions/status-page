@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1477,
-    "timeDay": 1477,
-    "timeWeek": 1477,
-    "timeMonth": 1477,
-    "timeYear": 1477,
+    "time": 1492,
+    "timeDay": 1492,
+    "timeWeek": 1492,
+    "timeMonth": 1492,
+    "timeYear": 1492,
     "dailyMinutesDown": {}
   },
   {
@@ -40,6 +40,26 @@
     "url": "$WIKALPA_LMS_MICROSERVICES_AI",
     "icon": "https://lms.wikalpa.orionex.id/static/img/favicon.png",
     "slug": "wikalpa-lms-microservices",
+    "status": "up",
+    "uptime": "0.41%",
+    "uptimeDay": "0.41%",
+    "uptimeWeek": "0.41%",
+    "uptimeMonth": "0.41%",
+    "uptimeYear": "0.41%",
+    "time": 767,
+    "timeDay": 767,
+    "timeWeek": 767,
+    "timeMonth": 767,
+    "timeYear": 767,
+    "dailyMinutesDown": {
+      "2026-01-02": 12
+    }
+  },
+  {
+    "name": "Orionex API Gateway (#1)",
+    "url": "$ORIONEX_API_GATEWAY_1",
+    "icon": "https://storage.googleapis.com/orionex-storage/orionex.webp",
+    "slug": "orionex-api-gateway-1",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -52,27 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-02": 0
-    }
-  },
-  {
-    "name": "Orionex API Gateway (#1)",
-    "url": "$ORIONEX_API_GATEWAY_1",
-    "icon": "https://storage.googleapis.com/orionex-storage/orionex.webp",
-    "slug": "orionex-api-gateway-1",
-    "status": "down",
-    "uptime": "1.26%",
-    "uptimeDay": "1.26%",
-    "uptimeWeek": "1.26%",
-    "uptimeMonth": "1.26%",
-    "uptimeYear": "1.26%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-02": 0
+      "2026-01-02": 12
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://storage.googleapis.com/orionex-storage/orionex.webp",
     "slug": "r-and-d-auto-insight-by-orionex-1",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-02": 0
+      "2026-01-02": 12
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-02": 0
+      "2026-01-02": 12
     }
   }
 ]
