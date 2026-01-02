@@ -39,3 +39,13 @@ status-website:
     - title: Homepage
       href: https://orionex.id
   customFootHtml: <p>&copy 2026 <a href=https://orionex.id>Orionex Solutions | PT Orionex Solusi Digital</a>. All rights reserved.</p>
+
+workflowSchedule:
+  uptime: "*/10 * * * *"          # every 10 minutes
+  responseTime: "*/15 * * * *"    # every 15 minutes
+  graphs: "0 * * * *"             # hourly
+  staticSite: "0 * * * *"       # every hour
+  summary: "0 * * * *"            # every hour
+  updates: "0 * * * *"            # every hour
+  updateTemplate: "0 0 * * *"     # daily at 00:00
+
