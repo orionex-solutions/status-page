@@ -15,10 +15,10 @@ sites:
     url: $ORIONEX_API_GATEWAY_1
     icon: https://storage.googleapis.com/orionex-storage/orionex.webp
   - name: R&D AutoInsight by Orionex (#1)
-    url: $AUTOINSIGHT_BY_ORIONEX_RnD_1
+    url: $AUTOINSIGHT_BY_ORIONEX_RND_1
     icon: https://storage.googleapis.com/orionex-storage/orionex.webp
   - name: R&D AutoInsight by Orionex (#2)
-    url: $AUTOINSIGHT_BY_ORIONEX_RnD_2
+    url: $AUTOINSIGHT_BY_ORIONEX_RND_2
     icon: https://storage.googleapis.com/orionex-storage/orionex.webp
   # - name: R&D AutoInsight by Orionex (#3)
   #   url: $AUTOINSIGHT_BY_ORIONEX_RnD_3
