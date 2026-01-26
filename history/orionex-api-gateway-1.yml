@@ -1,7 +1,7 @@
 url: $ORIONEX_API_GATEWAY_1
-status: up
-code: 200
-responseTime: 511
-lastUpdated: 2026-01-26T19:53:26.025Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-01-26T19:58:11.883Z
 startTime: 2026-01-02T05:48:04.043Z
 generator: Upptime <https://github.com/upptime/upptime>
