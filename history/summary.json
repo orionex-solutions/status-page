@@ -4,19 +4,19 @@
     "url": "https://orionex.id",
     "icon": "https://storage.googleapis.com/orionex-storage/orionex.webp",
     "slug": "orionex-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 377,
+    "timeDay": 369,
     "timeWeek": 170,
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2026-01-30": 0
+      "2026-01-30": 1
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 1583,
+    "time": 1597,
+    "timeDay": 1582,
     "timeWeek": 1592,
-    "timeMonth": 1598,
-    "timeYear": 1598,
+    "timeMonth": 1597,
+    "timeYear": 1597,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.56%",
     "time": 658,
-    "timeDay": 689,
+    "timeDay": 686,
     "timeWeek": 688,
     "timeMonth": 658,
     "timeYear": 658,
@@ -90,8 +90,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 245,
-    "timeDay": 244,
-    "timeWeek": 244,
+    "timeDay": 242,
+    "timeWeek": 243,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {
@@ -110,8 +110,8 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.57%",
     "time": 448,
-    "timeDay": 418,
-    "timeWeek": 444,
+    "timeDay": 414,
+    "timeWeek": 443,
     "timeMonth": 448,
     "timeYear": 448,
     "dailyMinutesDown": {
