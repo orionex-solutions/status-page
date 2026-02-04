@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 157,
+    "timeDay": 153,
     "timeWeek": 185,
     "timeMonth": 155,
     "timeYear": 153,
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1613,
-    "timeDay": 1610,
-    "timeWeek": 1701,
+    "timeDay": 1608,
+    "timeWeek": 1702,
     "timeMonth": 1616,
     "timeYear": 1613,
     "dailyMinutesDown": {}
@@ -41,18 +41,18 @@
     "icon": "https://lms.wikalpa.orionex.id/static/img/favicon.png",
     "slug": "wikalpa-lms-microservices",
     "status": "down",
-    "uptime": "98.95%",
-    "uptimeDay": "64.92%",
-    "uptimeWeek": "94.99%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.95%",
+    "uptime": "98.82%",
+    "uptimeDay": "60.62%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.82%",
     "time": 611,
-    "timeDay": 609,
-    "timeWeek": 626,
+    "timeDay": 614,
+    "timeWeek": 627,
     "timeMonth": 611,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2026-02-04": 505
+      "2026-02-04": 567
     }
   },
   {
@@ -67,8 +67,8 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.62%",
     "time": 674,
-    "timeDay": 618,
-    "timeWeek": 769,
+    "timeDay": 612,
+    "timeWeek": 767,
     "timeMonth": 681,
     "timeYear": 674,
     "dailyMinutesDown": {
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 247,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 247,
+    "timeDay": 252,
+    "timeWeek": 254,
+    "timeMonth": 248,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2026-01-02": 31
@@ -110,8 +110,8 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.63%",
     "time": 459,
-    "timeDay": 326,
-    "timeWeek": 511,
+    "timeDay": 315,
+    "timeWeek": 509,
     "timeMonth": 464,
     "timeYear": 459,
     "dailyMinutesDown": {
