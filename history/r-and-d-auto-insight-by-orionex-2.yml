@@ -1,7 +1,7 @@
 url: $AUTOINSIGHT_BY_ORIONEX_RND_2
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-14T22:50:25.287Z
+status: up
+code: 200
+responseTime: 407
+lastUpdated: 2026-02-14T22:59:03.763Z
 startTime: 2026-01-02T05:48:07.323Z
 generator: Upptime <https://github.com/upptime/upptime>
